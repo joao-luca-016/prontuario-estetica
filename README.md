@@ -20,3 +20,9 @@ Projeto desenvolvido para estudo de:
 - Evoluções
 - Anamneses
 - Pagamentos
+
+- ## Tecnologias
+
+- PostgreSQL
+- GitHub
+- Power BI (em desenvolvimento)
