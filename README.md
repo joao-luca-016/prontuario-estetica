@@ -9,7 +9,7 @@ Projeto desenvolvido para estudo de:
 
 ## Modelo Entidade-Relacionamento
 
-![Modelo ER](diagrama_er.png)
+![Modelo ER](docs/diagrama_er.png)
 
 ## Entidades
 
